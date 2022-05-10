@@ -1,8 +1,8 @@
-## AP4L project [lucy](wwww.google.com)
+## AP4L project
 
-You can use the [editor on GitHub](https://github.com/AP4L/ap4l.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Project protecting online privacy for people going through serious life events
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Protecting people from stalking, online trolls, and other serious online dangers they are exposed to when going through serious real-life events is the focus of a major new £3.44 million project, led by expert cybersecurity researchers at the University of Surrey and funded by the Engineering and Physical Sciences Research Council.
 
 ### Markdown
 	| Syntax | Description |
